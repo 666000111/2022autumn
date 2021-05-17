@@ -38,3 +38,5 @@
 # 中间件（kafka）
 + 有时间看看rabbitMQ
 + 原理及使用场景
+# 其他
++ netty
