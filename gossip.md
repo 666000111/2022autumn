@@ -33,3 +33,4 @@ Gossip协议的主要用途就是信息传播和扩散：即把一些发生的�
 ## 参考
 
 https://www.cnblogs.com/charlieroro/articles/12655967.html
+https://zhuanlan.zhihu.com/p/162970961
