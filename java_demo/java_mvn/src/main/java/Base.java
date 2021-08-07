@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Base {
+public class Base {
+    String name = "base";
+
+    public static void main(String[] args) {
+
+    }
 }
